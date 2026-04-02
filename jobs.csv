@@ -1,0 +1,33 @@
+id,job_title,company,location,date_applied,status,resume_used,job_description_file,source_url,notes
+1,Senior AI Engineer - Multi-Agent Frameworks,ClickUp,Remote,2026-03-28,applied,ai-engineer-2026-03-28.docx,,,
+2,AI Engineer,Automattic,Global Remote,2026-03-28,applied,ai-engineer-2026-03-28.docx,,,
+3,AI Engineer,Microsoft Learn Student Community - SMIU,Remote (Germany),2026-03-28,rejected,ai-engineer-2026-03-28.docx,,,Rejected via email 2026-04-01
+4,Artificial Intelligence Engineer,MPower Plus,Remote (Spain),2026-03-28,applied,ai-engineer-2026-03-28.docx,,,
+5,GIS Engineer with Python,IntelliJobs,Remote (Spain),2026-03-28,rejected,ai-engineer-2026-03-28.docx,,,Rejected via email 2026-04-01
+6,AI Engineer,RED Global,Remote (Spain),2026-03-28,applied,ai-engineer-2026-03-28.docx,,,
+7,Senior Data Scientist,Booksy,Remote (Spain),2026-03-28,applied,ai-engineer-2026-03-28.docx,,,
+8,AI Platform Engineer - Applied AI,Jobgether,Remote (Austria),2026-03-27,applied,ai-engineer-2026-03-28.docx,,,
+9,AI Engineer,Magnitude Consulting,Remote (Switzerland),2026-03-27,applied,ai-engineer-2026-03-28.docx,,,
+10,Machine Learning Research Engineer,Miro,EMEA Remote,2026-03-28,rejected,ai-engineer-2026-03-28.docx,,,Rejected via email 2026-04-01
+11,Senior AI/ML Engineer,Deel,EMEA Remote,2026-03-27,rejected,ai-engineer-2026-03-28.docx,,,Rejected via email 2026-04-02
+12,AI Engineer,Everfiled,Remote (Spain),2026-03-28,applied,ai-engineer-2026-03-28.docx,,,
+13,AI Engineer,Lifebit,Remote (Spain - Barcelona),2026-03-28,rejected,ai-engineer-2026-03-28.docx,,,Rejected via email 2026-04-01
+14,ML Solutions Architect,Asobbi,US Remote,2026-03-28,applied,ai-engineer-2026-03-28.docx,,,
+15,Data Scientist,Prima,Remote (Italy),2026-03-28,rejected,ai-engineer-2026-03-28.docx,,,Rejected via email 2026-04-01
+16,Data Scientist,Feedzai,Remote (Portugal),2026-03-28,applied,ai-engineer-2026-03-28.docx,,,
+17,AI/ML Engineer,BPM LLP,Remote (UK),2026-03-28,applied,ai-engineer-2026-03-28.docx,,,
+18,Sr. Data Scientist - GenAI,CrowdStrike,Remote (Spain),2026-03-28,rejected,ai-engineer-2026-03-28.docx,,,Rejected via email 2026-04-02
+19,Data Analyst,Sporty Group,Global Remote,2026-03-29,applied,ai-engineer-2026-03-28.docx,,,
+20,Software Engineer - AI Systems,XBOW,Remote,2026-03-30,rejected,ai-engineer-2026-03-28.docx,xbow-software-engineer-ai-systems.md,https://jobs.ashbyhq.com/xbowcareers/304f9f4e-477e-4d29-a39a-7c212738a0c8,Rejected via email 2026-04-01
+21,Middle Data Analyst,Growe,Remote,2026-03-30,rejected,ai-engineer-2026-03-28.docx,growe-middle-data-analyst.md,https://growe.com/career/vacancy/4638861101,Rejected via email 2026-04-01
+22,Senior Artificial Intelligence Specialist,GR8 Tech,Remote,2026-03-30,applied,ai-engineer-2026-03-28.docx,gr8tech-senior-ai-specialist.md,https://job-boards.eu.greenhouse.io/gr8tech/jobs/4784094101,
+23,Applied AI Specialist,Swans,Remote,2026-03-30,applied,ai-engineer-2026-03-28.docx,swans-applied-ai-specialist.md,https://jobs.ashbyhq.com/swans/78ab921f-ab7b-4c0e-b369-f7f45d7162c2,
+24,AI/ML Engineer,Melotech,Remote,2026-03-30,applied,ai-engineer-2026-03-28.docx,melotech-ai-ml-engineer.md,https://jobs.ashbyhq.com/melotech/beb62652-69c6-4d32-86ce-1ad38b63a0df,
+25,Machine Learning Engineer,"Loka, Inc",Remote,2026-03-30,applied,ai-engineer-2026-03-28.docx,loka-machine-learning-engineer.md,https://job-boards.greenhouse.io/lokainc/jobs/4097610007,
+26,Data Analyst,Xapo Bank,Remote,2026-03-30,applied,ai-engineer-2026-03-28.docx,xapo-bank-data-analyst.md,https://job-boards.greenhouse.io/xapo61/jobs/7572078003,
+27,Data Analyst: Multiple Teams,Constructor,Remote,2026-03-30,applied,ai-engineer-2026-03-28.docx,constructor-data-analyst-multiple-teams.md,https://apply.workable.com/constructor-1/j/E733A13253/,
+28,Data Scientist,Bending Spoons,Remote,2026-03-30,rejected,ai-engineer-2026-03-28.docx,bending-spoons-data-scientist.md,https://jobs.bendingspoons.com/positions/6970fa4e77f0037204dd2d6b,Rejected via email 2026-04-01
+29,Senior Data Scientist,WorkGarden,Remote,2026-03-30,applied,ai-engineer-2026-03-28.docx,workgarden-senior-data-scientist.md,https://apply.workable.com/astro-sirens-llc/j/560D6EB2A9/,
+30,Client Engagement Data Analyst - AI,Kraken,Remote,2026-04-01,applied,ai-engineer-2026-03-28.docx,kraken-client-engagement-data-analyst-ai.md,https://jobs.ashbyhq.com/kraken.com/47a0911e-e904-4f1d-af0a-662784b1aac1,
+31,Data Scientist (Fulfilment),Nivoda,Remote,2026-04-01,applied,ai-engineer-2026-03-28.docx,nivoda-data-scientist-fulfilment.md,https://jobs.ashbyhq.com/Nivoda/e5eac2d6-7c76-4598-b5a5-a0b77c190cea,
+32,Automations Engineer,ElevenLabs,Remote,2026-04-01,applied,ai-engineer-2026-03-28.docx,elevenlabs-automations-engineer.md,https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7,
