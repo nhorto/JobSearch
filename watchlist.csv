@@ -1,0 +1,5 @@
+id,type,company,job_title,location,source_url,priority,date_added,notes
+1,job,digitalh,Lead Geospatial Data Engineer,Remote (Worldwide),https://join.com/companies/digitalhdev/15894362-lead-geospatial-data-engineer-remote,high,2026-04-02,Architecting high-performance spatial data pipelines; team lead role
+2,job,Lutra Consulting,Geospatial Infrastructure Engineer,Remote (UK timezone),https://www.lutraconsulting.co.uk/vacancies#geospatial-infrastructure-engineer,high,2026-04-02,Open-source GIS infra - PostgreSQL/PostGIS/GeoServer/QGIS/Mergin Maps
+3,job,CIFOR-ICRAF,Spatial Data Scientist - ML & Remote Sensing,Remote / Nairobi Kenya,https://www.cifor-icraf.org/career/206844000049528736/spatial-data-scientist-machine-learning-remote-sensing/,high,2026-04-02,ML models for geospatial analysis; satellite imagery; ecosystem health assessment
+4,job,SoilWatch,Lead Engineer - Digital MRV Platform,Helsinki / Nairobi / Remote,https://soilwatch.eu/careers/,high,2026-04-02,"Full-stack lead for climate MRV platform; Python/React/PostgreSQL/GCP/Azure; owns quality management framework for carbon credit verification"

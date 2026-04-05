@@ -7,9 +7,11 @@ Personal job application tracking system.
 ```
 JobSearch/
   jobs.csv                    # Master tracking spreadsheet
+  watchlist.csv               # Jobs/companies to apply to later
   jobs-applied-raw-backup.csv # Original unmodified CSV backup
   resumes/                    # All resume versions used for applications
   job-descriptions/           # Saved job postings (text files)
+  .claude/skills/             # Project-local skills
 ```
 
 ## jobs.csv Schema
@@ -42,9 +44,19 @@ JobSearch/
 |----------|-------------|
 | `ai-engineer-2026-03-28.docx` | AI Engineer & Data Scientist resume (used for initial batch of applications) |
 
-## Skills
+## Skills (project-local, in `.claude/skills/`)
 
-The `/jobsearch` skill (in `~/.claude/skills/JobSearch/`) provides commands for:
-- Adding new applications (from URLs, text, or manually)
-- Updating application status
-- Viewing application summary/stats
+### `/jobsearch` — Application tracker
+- `add <url or details>` — Add a new application
+- `update <company or id> <status>` — Update application status
+- `summary` — View stats and breakdown
+
+### `/resume` — Resume manager
+- `tailor <job id, company, or details>` — Generate tailored resume suggestions for a specific job
+- `list` — Show all resumes and which applications use them
+
+### `/watchlist` — Future opportunities queue
+- `add <url, company, or job details>` — Save a job or company to apply to later (supports bulk add from lists/reports)
+- `remove <id or company>` — Remove an entry
+- `list [filter]` — View watchlist (filter by `jobs`, `companies`, `high`, or search term)
+- `apply <id or company>` — Move a watchlist item into an active application in jobs.csv
