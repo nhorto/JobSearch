@@ -1,2 +1,3 @@
 .DS_Store
-resumes/
+.venv/
+resumes/*.docx
